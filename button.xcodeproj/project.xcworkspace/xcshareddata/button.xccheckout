@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D3C86F60-BC5F-4E6D-B2D1-24FD258CAD01</string>
+	<key>IDESourceControlProjectName</key>
+	<string>button</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E3C9BE4C4C30CA92BFB81300002BFE713C45C311</key>
+		<string>https://github.com/HanCai1991/LeftDrawer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>button.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E3C9BE4C4C30CA92BFB81300002BFE713C45C311</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HanCai1991/LeftDrawer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E3C9BE4C4C30CA92BFB81300002BFE713C45C311</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E3C9BE4C4C30CA92BFB81300002BFE713C45C311</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LeftDrawerGroup</string>
+		</dict>
+	</array>
+</dict>
+</plist>
