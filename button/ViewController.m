@@ -38,6 +38,6 @@
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
     
     NSLog(@"出来额曹");
-    
+    NSLog(@"两点半啦");
 }
 @end
