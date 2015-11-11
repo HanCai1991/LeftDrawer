@@ -37,7 +37,7 @@
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
     
-    
+    NSLog(@"出来额曹");
     
 }
 @end
